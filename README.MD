@@ -1,4 +1,12 @@
-## Node and Express Tutorial
+# Node and Express Tutorial
+
+#### Node Course
+
+[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
+
+#### Support
+
+Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
 #### Contents
 
@@ -18,5 +26,3 @@
 9. Stripe Payment
 10. E-Commerce API
 11. Auth Workflow (verify email, reset password)
-12. Sessons
-13. Yelp Clone
