@@ -1,7 +1,3 @@
-I'll create a comprehensive tutorial based on this Node.js globals code. Let me first load the ability to help me understand best practices for code search and documentation.# Node.js Globals Tutorial
-
-Based on the code in `02-globals.js`, here's a comprehensive tutorial on Node.js global objects:
-
 ## Overview
 
 In Node.js, there are global objects and variables that are available in every module without needing to import them. Unlike browser JavaScript which has the `window` object, Node.js provides its own set of globals designed for server-side development.
